@@ -1,4 +1,4 @@
-![Accompanist logo](docs/header.png)
+[Accompanist logo](docs/header.png)
 
 Accompanist is a group of libraries that aim to supplement [Jetpack Compose][compose] with features that are commonly required by developers but not yet available.
 
